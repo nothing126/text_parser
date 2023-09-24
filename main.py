@@ -8,7 +8,7 @@ import io  # Добавьте импорт модуля io
 
 
 # Your Telegram bot token
-TOKEN = '6548077484:AAGSpM1X4GTY8fMvDDeq_T6MjoAt0Gw0X8I'
+TOKEN = ''
 
 # Initialize the bot
 bot = telebot.TeleBot(TOKEN)
